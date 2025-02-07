@@ -22,7 +22,7 @@
   <img width="47%" height="190em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetherden&layout=compact&theme=tokyonight" alt="GitHub Langs"/>
 
 
--->>
+-->
 
 <!--  ![Most Commit Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tetherden&layout=compact&langs_count=10&theme=tokyonight)   -->
 
