@@ -8,9 +8,9 @@
   -->
 
 
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarbageCollectorHub&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarbageCollectorHub&theme=tokyonight"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarbageCollectorHub&theme=tokyonight" />
+  
 </div>
 
 
