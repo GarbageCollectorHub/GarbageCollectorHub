@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Denys 👋
+# Hi, I'm Denis 👋
 
 ### .NET Backend Developer with React experience
 
