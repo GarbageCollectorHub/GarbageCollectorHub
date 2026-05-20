@@ -4,38 +4,55 @@
 
 ### .NET Backend Developer with React experience
 
-Focused on ASP.NET Core, REST APIs, EF Core, SQL and practical full-stack projects.
+ASP.NET Core • REST APIs • EF Core • SQL • React • Azure
 
 </div>
 
 ---
 
-## Stack
+## Engineering Focus
 
-**Backend:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core, JWT  
-**Frontend:** React, React Native, TypeScript, JavaScript  
-**Data:** SQL, relational databases  
-**Tools & Platform:** Azure, Git/GitHub, Postman  
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core, JWT</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React, React Native, TypeScript, JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>SQL, relational databases</td>
+  </tr>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>Layered Architecture, DTOs, Repository Pattern, Separation of Concerns</td>
+  </tr>
+  <tr>
+    <td><b>Practices</b></td>
+    <td>REST API design, validation, structured error handling, SOLID, DRY, KISS</td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platform</b></td>
+    <td>Azure, Git, Postman</td>
+  </tr>
+</table>
 
 ---
 
-
+## GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarbageCollectorHub&theme=tokyonight"  />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarbageCollectorHub&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarbageCollectorHub&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarbageCollectorHub&theme=tokyonight" />
+
 </div>
-
-<div align="center"> 
-  <!--   stats card repos etc
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarbageCollectorHub&theme=tokyonight"  />
-  -->
-
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarbageCollectorHub&theme=tokyonight"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarbageCollectorHub&theme=tokyonight" />
-  
-</div>
-
 
 
 <!--  
