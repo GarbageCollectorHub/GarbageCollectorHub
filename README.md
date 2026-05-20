@@ -1,7 +1,5 @@
 
 
-# Hi, I'm Denis 👋
-
 ### .NET Backend Developer with React experience
 
 ASP.NET Core • REST APIs • EF Core • SQL • React • Azure
