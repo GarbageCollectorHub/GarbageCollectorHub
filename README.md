@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi, I'm Denys 👋
 
@@ -6,7 +6,6 @@
 
 ASP.NET Core • REST APIs • EF Core • SQL • React • Azure
 
-</div>
 
 ---
 
