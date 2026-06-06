@@ -1,40 +1,16 @@
+### Backend-focused .NET Developer
 
-
-### .NET Backend Developer with React experience
-
-ASP.NET Core • REST APIs • EF Core • SQL • React • Azure
-
+C# · ASP.NET Core · EF Core · SQL · REST APIs · React · Azure
 
 ---
 
-## Engineering Focus
+## Tech Stack
 
-<table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core, JWT</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>React, React Native, TypeScript, JavaScript</td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>SQL, relational databases</td>
-  </tr>
-  <tr>
-    <td><b>Architecture</b></td>
-    <td>Layered Architecture, DTOs, Repository Pattern, Separation of Concerns</td>
-  </tr>
-  <tr>
-    <td><b>Practices</b></td>
-    <td>REST API design, validation, structured error handling, SOLID, DRY, KISS</td>
-  </tr>
-  <tr>
-    <td><b>Tools & Platform</b></td>
-    <td>Azure, Git, Postman</td>
-  </tr>
-</table>
+**Backend** — C#, .NET, ASP.NET Core Web API, EF Core, LINQ  
+**Frontend** — React, TypeScript, JavaScript, React Native  
+**Data** — SQL, MySQL, MSSQL  
+**API & Auth** — REST APIs, JWT, Swagger / OpenAPI  
+**Cloud & Tools** — Azure Blob Storage, Azure App Service, Docker, Git  
 
 ---
 
