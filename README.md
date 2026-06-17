@@ -1,5 +1,9 @@
-### Backend-focused .NET Developer
-.NET | ASP.NET Core Web API | EF Core | SQL | React | Azure
+### Junior .NET Backend Developer
+
+ASP.NET Core Web API | EF Core | SQL | REST APIs | Azure | React
+
+Backend-focused .NET developer building REST APIs with ASP.NET Core, EF Core and SQL.  
+Focused on clean API contracts, maintainable backend architecture and practical data access.
 
 ---
 
@@ -8,23 +12,23 @@
 <table>
   <tr>
     <td><b>Backend</b></td>
-    <td>C#, .NET, ASP.NET Core Web API, EF Core, LINQ</td>
+    <td>C#, .NET, ASP.NET Core (Web API, MVC), EF Core, LINQ</td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td>React, TypeScript, JavaScript, React Native</td>
+    <td>React, JavaScript, basic TypeScript</td>
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td>SQL, MySQL, MSSQL</td>
+    <td>SQL, SQL Server, MySQL, EF Core Migrations</td>
   </tr>
   <tr>
     <td><b>API & Auth</b></td>
-    <td>REST APIs, JWT, Swagger / OpenAPI, Postman</td>
+    <td>REST APIs, DTOs, JWT, Swagger</td>
   </tr>
   <tr>
-    <td><b>Cloud & Tools</b></td>
-    <td>Azure Blob Storage, Azure App Service, Docker, Git</td>
+    <td><b>Tools & Cloud</b></td>
+    <td>Azure, Docker, Git/GitHub, Postman</td>
   </tr>
 </table>
 
