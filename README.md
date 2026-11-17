@@ -7,28 +7,28 @@ Focused on clean API contracts, maintainable backend architecture and practical 
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 <table>
   <tr>
     <td><b>Backend</b></td>
-    <td>C#, .NET, ASP.NET Core (Web API, MVC), EF Core, LINQ</td>
+    <td>C#, .NET, ASP.NET Core, Web API, MVC, REST APIs, JWT</td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td>React, JavaScript, basic TypeScript</td>
+    <td>React, JavaScript, TypeScript (basic)</td>
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td>SQL, SQL Server, MySQL, EF Core Migrations</td>
-  </tr>
-  <tr>
-    <td><b>API & Auth</b></td>
-    <td>REST APIs, DTOs, JWT, Swagger</td>
+    <td>EF Core, LINQ, SQL, SQL Server</td>
   </tr>
   <tr>
     <td><b>Tools & Cloud</b></td>
-    <td>Azure, Docker, Git/GitHub, Postman</td>
+    <td>Azure, Azure App Service, Docker, Git</td>
+  </tr>
+  <tr>
+    <td><b>Practices</b></td>
+    <td>Clean Architecture, Unit testing (xUnit), Prompt Artist</td>
   </tr>
 </table>
 
