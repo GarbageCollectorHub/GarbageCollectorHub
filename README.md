@@ -28,7 +28,7 @@ Focused on clean API contracts, maintainable backend architecture and practical 
   </tr>
   <tr>
     <td><b>Practices</b></td>
-    <td>Clean Architecture, Unit testing (xUnit), Prompt Artist</td>
+    <td>Clean Architecture, Prompt Artist</td>
   </tr>
 </table>
 
