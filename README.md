@@ -1,4 +1,4 @@
-### Junior .NET Backend Developer
+
 
 ASP.NET Core Web API | EF Core | SQL | REST APIs | Azure | React
 
